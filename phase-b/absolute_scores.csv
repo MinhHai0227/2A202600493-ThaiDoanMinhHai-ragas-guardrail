@@ -1,0 +1,21 @@
+question,accuracy,relevance,groundedness,conciseness,overall
+Dữ liệu cá nhân nhạy cảm bao gồm những loại nào theo Nghị định 13/2023?,0.0000,0.0000,0.0000,0.5000,0.1250
+Tổ chức nước ngoài chuyển dữ liệu cá nhân ra khỏi Việt Nam cần đáp ứng những điều kiện gì?,1.0000,1.0000,1.0000,0.8000,0.9500
+Sự khác biệt giữa bên kiểm soát dữ liệu và bên xử lý dữ liệu trong Nghị định 13/2023 là gì?,0.0000,0.0000,0.0000,1.0000,0.2500
+Chủ thể dữ liệu cá nhân có những quyền gì theo Nghị định 13/2023?,1.0000,1.0000,1.0000,1.0000,1.0000
+Nguyên tắc xử lý dữ liệu cá nhân theo Nghị định 13/2023 là gì?,0.5000,0.5000,0.5000,0.8000,0.5750
+Quy trình đánh giá tác động xử lý dữ liệu cá nhân bao gồm những bước nào?,0.0000,0.0000,0.0000,0.0000,0.0000
+Điều kiện hợp pháp để xử lý dữ liệu cá nhân mà không cần sự đồng ý của chủ thể là gì?,0.0000,0.0000,0.0000,0.0000,0.0000
+Bên kiểm soát dữ liệu có nghĩa vụ gì khi xảy ra sự cố lộ lọt dữ liệu cá nhân?,1.0000,1.0000,1.0000,1.0000,1.0000
+Dữ liệu cá nhân của trẻ em được xử lý theo quy định đặc biệt nào?,1.0000,1.0000,1.0000,0.8000,0.9500
+Cơ quan Nhà nước có trách nhiệm gì trong việc bảo vệ dữ liệu cá nhân theo Nghị định 13/2023?,1.0000,1.0000,1.0000,0.8000,0.9500
+Định nghĩa 'xử lý dữ liệu cá nhân' theo Nghị định 13/2023 bao gồm những hoạt động nào?,1.0000,1.0000,1.0000,0.8000,0.9500
+Sự đồng ý của chủ thể dữ liệu phải được thể hiện như thế nào theo Nghị định 13/2023?,1.0000,1.0000,1.0000,0.8000,0.9500
+"Theo Nghị định 13/2023, thời hạn lưu trữ dữ liệu cá nhân là bao lâu?",1.0000,1.0000,1.0000,1.0000,1.0000
+Tổng tài sản ngắn hạn của công ty theo báo cáo tài chính là bao nhiêu?,1.0000,1.0000,1.0000,1.0000,1.0000
+Doanh thu thuần từ bán hàng và cung cấp dịch vụ của công ty là bao nhiêu trong kỳ báo cáo?,1.0000,1.0000,1.0000,1.0000,1.0000
+Lợi nhuận sau thuế thu nhập doanh nghiệp của công ty trong kỳ là bao nhiêu?,1.0000,1.0000,1.0000,1.0000,1.0000
+Vốn chủ sở hữu của công ty tại cuối kỳ báo cáo là bao nhiêu và cơ cấu gồm những khoản mục nào?,1.0000,1.0000,1.0000,1.0000,1.0000
+Các khoản nợ phải trả dài hạn của công ty bao gồm những gì và tổng giá trị là bao nhiêu?,1.0000,1.0000,1.0000,1.0000,1.0000
+Công ty thực hiện chính sách kế toán nào đối với hàng tồn kho và phương pháp tính giá vốn hàng bán?,0.0000,0.0000,0.0000,1.0000,0.2500
+"Luồng tiền từ hoạt động kinh doanh (operating cash flow) của công ty trong kỳ là dương hay âm, và những yếu tố chính nào ảnh hưởng?",1.0000,1.0000,1.0000,1.0000,1.0000

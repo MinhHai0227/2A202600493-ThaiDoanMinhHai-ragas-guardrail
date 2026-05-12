@@ -1,0 +1,21 @@
+question,allowed,output_safe,l1_ms,l2_ms,l3_ms,total_ms
+Dữ liệu cá nhân nhạy cảm bao gồm những loại nào theo Nghị định 13/2023?,True,True,2.62,26156.27,0.25,26159.14
+Tổ chức nước ngoài chuyển dữ liệu cá nhân ra khỏi Việt Nam cần đáp ứng những điều kiện gì?,True,True,0.04,13335.27,0.06,13335.36
+Sự khác biệt giữa bên kiểm soát dữ liệu và bên xử lý dữ liệu trong Nghị định 13/2023 là gì?,True,True,0.11,10513.69,0.03,10513.82
+Chủ thể dữ liệu cá nhân có những quyền gì theo Nghị định 13/2023?,True,True,0.04,18894.07,1.03,18895.14
+Nguyên tắc xử lý dữ liệu cá nhân theo Nghị định 13/2023 là gì?,True,True,0.13,18605.56,0.24,18605.93
+Quy trình đánh giá tác động xử lý dữ liệu cá nhân bao gồm những bước nào?,True,True,0.44,17264.47,0.42,17265.33
+Điều kiện hợp pháp để xử lý dữ liệu cá nhân mà không cần sự đồng ý của chủ thể là gì?,True,True,0.66,13911.67,0.02,13912.36
+Bên kiểm soát dữ liệu có nghĩa vụ gì khi xảy ra sự cố lộ lọt dữ liệu cá nhân?,True,True,0.44,17981.95,0.67,17983.07
+Dữ liệu cá nhân của trẻ em được xử lý theo quy định đặc biệt nào?,True,True,0.32,18610.3,1.3,18611.91
+Cơ quan Nhà nước có trách nhiệm gì trong việc bảo vệ dữ liệu cá nhân theo Nghị định 13/2023?,True,True,0.37,20670.86,0.06,20671.29
+Định nghĩa 'xử lý dữ liệu cá nhân' theo Nghị định 13/2023 bao gồm những hoạt động nào?,True,True,0.05,17492.1,0.45,17492.61
+Sự đồng ý của chủ thể dữ liệu phải được thể hiện như thế nào theo Nghị định 13/2023?,True,True,0.06,14890.32,0.11,14890.49
+"Theo Nghị định 13/2023, thời hạn lưu trữ dữ liệu cá nhân là bao lâu?",True,True,0.09,14747.52,0.04,14747.65
+Tổng tài sản ngắn hạn của công ty theo báo cáo tài chính là bao nhiêu?,True,True,0.08,23574.46,0.66,23575.21
+Doanh thu thuần từ bán hàng và cung cấp dịch vụ của công ty là bao nhiêu trong kỳ báo cáo?,False,False,0.64,0.0,0.0,0.64
+Lợi nhuận sau thuế thu nhập doanh nghiệp của công ty trong kỳ là bao nhiêu?,False,False,0.03,0.0,0.0,0.03
+Vốn chủ sở hữu của công ty tại cuối kỳ báo cáo là bao nhiêu và cơ cấu gồm những khoản mục nào?,False,False,0.02,0.0,0.0,0.02
+Các khoản nợ phải trả dài hạn của công ty bao gồm những gì và tổng giá trị là bao nhiêu?,False,False,0.01,0.0,0.0,0.01
+Công ty thực hiện chính sách kế toán nào đối với hàng tồn kho và phương pháp tính giá vốn hàng bán?,False,False,0.06,0.0,0.0,0.06
+"Luồng tiền từ hoạt động kinh doanh (operating cash flow) của công ty trong kỳ là dương hay âm, và những yếu tố chính nào ảnh hưởng?",False,False,0.12,0.0,0.0,0.12

@@ -1,0 +1,11 @@
+question,human_winner,confidence,notes
+"Dữ liệu cá nhân nhạy cảm bao gồm những loại nào theo Nghị định 13/2023?",b,0.88,"B cụ thể và bám sát căn cứ hơn."
+"Tổ chức nước ngoài chuyển dữ liệu cá nhân ra khỏi Việt Nam cần đáp ứng những điều kiện gì?",tie,0.71,"Hai câu trả lời tương đương."
+"Sự khác biệt giữa bên kiểm soát dữ liệu và bên xử lý dữ liệu trong Nghị định 13/2023 là gì?",tie,0.82,"Cả hai đều chưa rõ ràng."
+"Chủ thể dữ liệu cá nhân có những quyền gì theo Nghị định 13/2023?",a,0.90,"A đầy đủ hơn."
+"Nguyên tắc xử lý dữ liệu cá nhân theo Nghị định 13/2023 là gì?",tie,0.74,"Khó phân thắng bại."
+"Quy trình đánh giá tác động xử lý dữ liệu cá nhân bao gồm những bước nào?",tie,0.80,"Cả hai còn thiếu chi tiết."
+"Điều kiện hợp pháp để xử lý dữ liệu cá nhân mà không cần sự đồng ý của chủ thể là gì?",tie,0.79,"Không có bên vượt trội."
+"Bên kiểm soát dữ liệu có nghĩa vụ gì khi xảy ra sự cố lộ lọt dữ liệu cá nhân?",tie,0.72,"Mức độ liên quan tương đương."
+"Dữ liệu cá nhân của trẻ em được xử lý theo quy định đặc biệt nào?",b,0.85,"B có viện dẫn pháp lý tốt hơn."
+"Cơ quan Nhà nước có trách nhiệm gì trong việc bảo vệ dữ liệu cá nhân theo Nghị định 13/2023?",a,0.84,"A đúng trọng tâm và đầy đủ hơn."
