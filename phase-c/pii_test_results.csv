@@ -1,1 +1,11 @@
 input,expected_pii_detected,actual_pii_detected,pass
+"Liên hệ tôi qua email minh.nguyen@gmail.com",True,True,True
+"Số điện thoại của tôi là 0912345678",True,True,True
+"CMND 079203001234 cần được che",True,True,True
+"Tài khoản test không có PII",False,False,True
+"Thông tin nhân viên Nguyễn Văn A",False,False,True
+"Email support@company.vn và số 0987654321",True,True,True
+"Mã hợp đồng HD-2026-09",False,False,True
+"SĐT +84901234567",True,True,True
+"Xin tư vấn dữ liệu cá nhân",False,False,True
+"Địa chỉ email abc.def+test@domain.com",True,True,True
